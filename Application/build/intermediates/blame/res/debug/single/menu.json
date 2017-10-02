@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\Networking\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Android\\Networking\\Application\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\BasicNetworking\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Android\\BasicNetworking\\Application\\src\\main\\res\\menu\\main.xml"
+    }
+]

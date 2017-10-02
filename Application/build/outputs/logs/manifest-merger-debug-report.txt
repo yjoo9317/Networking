@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:17:1-52:12
+	package
+		ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:20:5-50
+	android:versionName
+		ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:22:5-30
+		INJECTED from D:\Android\Networking\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Networking\Application\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:19:5-51
+	android:versionCode
+		ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:21:5-28
+		INJECTED from D:\Android\Networking\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Networking\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:18:5-63
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:25:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:26:22-76
+uses-sdk
+ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:28:5-31:58
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\7425b19b9bc36cae82ad78972bf6475d878e07a8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\d609aa493b83e0c2b1a57489c9e7019be442aae5\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\8165047ec4e28c7fcb76816f475fced456a7cc49\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\c3333582f2c4003d2978efcb619678cfcf5431e0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\95347b9c6efdca63521929bb4c6f5e7c698c0948\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\4b51a261f019923d0d9de4c2a846fa51c2e2c5c1\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\13458beb836f0115653e20266450e9858e1af08e\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\95afcd405360242172beebda3c432d7825661c23\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\a9e7dab7f0953cce1bacd9d238f4e67b350a2546\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\caa9710e8f63a3054d5e7efb55117bbb5fe569e9\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:28:5-31:58
+	android:targetSdkVersion
+		INJECTED from D:\Android\Networking\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Networking\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\Networking\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Networking\Application\src\main\AndroidManifest.xml
+application
+ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:35:5-51:19
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\7425b19b9bc36cae82ad78972bf6475d878e07a8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\d609aa493b83e0c2b1a57489c9e7019be442aae5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\8165047ec4e28c7fcb76816f475fced456a7cc49\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\c3333582f2c4003d2978efcb619678cfcf5431e0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\95347b9c6efdca63521929bb4c6f5e7c698c0948\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\4b51a261f019923d0d9de4c2a846fa51c2e2c5c1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\13458beb836f0115653e20266450e9858e1af08e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\95afcd405360242172beebda3c432d7825661c23\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\a9e7dab7f0953cce1bacd9d238f4e67b350a2546\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\caa9710e8f63a3054d5e7efb55117bbb5fe569e9\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:36:9-41
+	android:allowBackup
+		ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:39:9-35
+	android:icon
+		ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:37:9-45
+	android:theme
+		ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:38:9-44
+activity#com.example.android.basicnetworking.MainActivity
+ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:41:9-50:20
+	android:label
+		ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:43:13-45
+	android:uiOptions
+		ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:44:13-57
+	android:name
+		ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:42:13-76
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:46:13-49:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from D:\Android\Networking\Application\src\main\AndroidManifest.xml:48:27-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\7425b19b9bc36cae82ad78972bf6475d878e07a8\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\d609aa493b83e0c2b1a57489c9e7019be442aae5\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\8165047ec4e28c7fcb76816f475fced456a7cc49\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\c3333582f2c4003d2978efcb619678cfcf5431e0\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\95347b9c6efdca63521929bb4c6f5e7c698c0948\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\4b51a261f019923d0d9de4c2a846fa51c2e2c5c1\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\13458beb836f0115653e20266450e9858e1af08e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\95afcd405360242172beebda3c432d7825661c23\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\a9e7dab7f0953cce1bacd9d238f4e67b350a2546\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\caa9710e8f63a3054d5e7efb55117bbb5fe569e9\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\7425b19b9bc36cae82ad78972bf6475d878e07a8\output\AndroidManifest.xml:24:9-38
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\yjoo9_000\.android\build-cache\7425b19b9bc36cae82ad78972bf6475d878e07a8\output\AndroidManifest.xml:23:9-47
