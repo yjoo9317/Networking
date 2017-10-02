@@ -16,7 +16,7 @@ public class NetworkFragment extends Fragment {
     private DownloadCallback mCallback;
 
 
-    private class DownloadTask extends AsyncTask<String, Void, DownloadTask.Result>{
+    private static class DownloadTask extends AsyncTask<String, Void, DownloadTask.Result>{
 
         private DownloadCallback<String> mCallback;
 
